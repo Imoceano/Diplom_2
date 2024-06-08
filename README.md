@@ -2,9 +2,9 @@
 ### Автотесты API для проверки работы бэка программы, которая помогает заказать бургер в Stellar Burgers
 
 Артефакты: 
-1. Требования для API -  
+Требования для API и эндпоинты 
+https://code.s3.yandex.net/qa-automation-engineer/python-full/diploma/api-documentation.pdf?etag=3403196b527ca03259bfd0cb41163a89
 
-2. Используемые эндпоинты - 
 
 Созданы следующие API-тесты : 
 
